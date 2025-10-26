@@ -182,9 +182,9 @@ const FoundersSection = () => {
 
   const founders = [
     {
-      name: "Prateek Sharma",
+      name: "Sushant Kabra",
       role: "CEO & Founder",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=600&fit=crop",
+      image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494743/sushant_bbj7hu.jpg",
       tagline: "Pioneering AI innovation to transform businesses and create lasting impact through intelligent solutions.",
       message: `I founded Aivornyx with a conviction that artificial intelligence should be more than just a technological capability—it should be a catalyst for meaningful transformation.
 
@@ -206,9 +206,9 @@ The future belongs to those who embrace intelligent innovation. Let's build that
       email: "prateek@aivornyx.com",
     },
     {
-      name: "Sarah Johnson",
+      name: "Khelesh Patil",
       role: "Chief Technology Officer",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&h=600&fit=crop",
+      image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/khelesh_w2cmwp.jpg",
       tagline: "Leading technical innovation with a passion for cutting-edge machine learning and scalable architecture.",
       message: `Technology is only as powerful as its application. At Aivornyx, I lead our technical vision with one clear goal: building AI solutions that are not just intelligent, but practical, scalable, and transformative.
 
@@ -230,9 +230,9 @@ Innovation without execution is just imagination. Let's turn your vision into re
       email: "sarah@aivornyx.com",
     },
     {
-      name: "Michael Chen",
+      name: "Siddhesh Pohare",
       role: "Chief Data Scientist",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&h=600&fit=crop",
+      image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/siddhesh_rg789p.jpg",
       tagline: "Transforming raw data into actionable insights through advanced analytics and predictive modeling.",
       message: `Data tells stories—powerful stories that can reshape industries, redefine strategies, and reveal opportunities hidden in plain sight.
 
@@ -254,9 +254,9 @@ With over 10 million documents processed and countless patterns discovered, we'v
       email: "michael@aivornyx.com",
     },
     {
-      name: "Emily Rodriguez",
+      name: "Tejas Ubale",
       role: "VP of Client Success",
-      image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=600&h=600&fit=crop",
+      image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/Tejas_jvoprr.jpg",
       tagline: "Ensuring every client achieves measurable success through dedicated partnership and strategic guidance.",
       message: `Success isn't just about implementing technology—it's about transformation, partnership, and achieving outcomes that exceed expectations.
 
