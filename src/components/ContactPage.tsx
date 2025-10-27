@@ -36,11 +36,12 @@ const ContactPage = () => {
       link: 'mailto:contact@aivornyx.com',
     },
     {
-      icon: Phone,
-      title: 'Phone',
-      value: '+91 77758 30288',
-      link: 'tel:+91 77758 30288',
-    },
+  icon: 'Phone',
+  title: 'Phone',
+  value: '+91 77758 3028, +91 77758 3029, +91 77758 3030, +91 77758 3031',
+  link: 'tel:+91 77758 3028, +91 77758 3029, +91 77758 3030, +91 77758 3031'
+}
+,
     {
       icon: MapPin,
       title: 'Location',

@@ -183,7 +183,7 @@ const FoundersSection = () => {
   const founders = [
     {
       name: "Sushant Kabra",
-      role: "CEO & Founder",
+      role: "Co-Founder",
       image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494743/sushant_bbj7hu.jpg",
       tagline: "Pioneering AI innovation to transform businesses and create lasting impact through intelligent solutions.",
       message: `I founded Aivornyx with a conviction that artificial intelligence should be more than just a technological capability—it should be a catalyst for meaningful transformation.
@@ -202,12 +202,12 @@ The future belongs to those who embrace intelligent innovation. Let's build that
         { value: "95%", label: "Client Retention" },
       ],
       expertise: ["AI Strategy", "Business Transformation", "Enterprise Solutions", "Leadership"],
-      linkedin: "https://linkedin.com",
-      email: "prateek@aivornyx.com",
+      linkedin: "https://www.linkedin.com/in/sushant-kabra-657483259",
+      email: "siddheshpohare@gmail.com ",
     },
     {
       name: "Khelesh Patil",
-      role: "Chief Technology Officer",
+      role: "Co-Founder",
       image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/khelesh_w2cmwp.jpg",
       tagline: "Leading technical innovation with a passion for cutting-edge machine learning and scalable architecture.",
       message: `Technology is only as powerful as its application. At Aivornyx, I lead our technical vision with one clear goal: building AI solutions that are not just intelligent, but practical, scalable, and transformative.
@@ -226,12 +226,12 @@ Innovation without execution is just imagination. Let's turn your vision into re
         { value: "30+", label: "Team Members" },
       ],
       expertise: ["Machine Learning", "Cloud Architecture", "MLOps", "System Design"],
-      linkedin: "https://linkedin.com",
-      email: "sarah@aivornyx.com",
+      linkedin: "https://linkedin.com/in/khelesh-patil",
+      email: "kheleshpatil@gmail.com",
     },
     {
       name: "Siddhesh Pohare",
-      role: "Chief Data Scientist",
+      role: "Co-Founder",
       image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/siddhesh_rg789p.jpg",
       tagline: "Transforming raw data into actionable insights through advanced analytics and predictive modeling.",
       message: `Data tells stories—powerful stories that can reshape industries, redefine strategies, and reveal opportunities hidden in plain sight.
@@ -250,12 +250,12 @@ With over 10 million documents processed and countless patterns discovered, we'v
         { value: "500+", label: "Models Trained" },
       ],
       expertise: ["Data Science", "Predictive Analytics", "Deep Learning", "Statistical Modeling"],
-      linkedin: "https://linkedin.com",
-      email: "michael@aivornyx.com",
+      linkedin: "https://www.linkedin.com/in/sushant-kabra-657483259",
+      email: "sushantkabra2733@gmail.com",
     },
     {
       name: "Tejas Ubale",
-      role: "VP of Client Success",
+      role: "Co-Founder",
       image: "https://res.cloudinary.com/drzydaw9o/image/upload/v1761494737/Tejas_jvoprr.jpg",
       tagline: "Ensuring every client achieves measurable success through dedicated partnership and strategic guidance.",
       message: `Success isn't just about implementing technology—it's about transformation, partnership, and achieving outcomes that exceed expectations.
@@ -276,8 +276,8 @@ Your success is our mission. Let's achieve it together.`,
         { value: "24/7", label: "Support" },
       ],
       expertise: ["Client Relations", "Strategic Consulting", "Change Management", "ROI Optimization"],
-      linkedin: "https://linkedin.com",
-      email: "emily@aivornyx.com",
+      linkedin: "https://www.linkedin.com/in/tejas-ubale-b41503253",
+      email: "tejasubale41@gmail.com ",
     },
   ];
 
