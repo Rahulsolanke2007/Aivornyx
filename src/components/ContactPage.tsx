@@ -32,7 +32,7 @@ const ContactPage = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'contact@aivornyx.com',
+      value: 'aivornyx@gmail.com',
       link: 'mailto:contact@aivornyx.com',
     },
     {
